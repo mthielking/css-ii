@@ -4,13 +4,28 @@ p{
 	color:red;
 }
 
+.excerpt {
+	color: green;
+}
+
 img{
 	height:200px;
 	width: 300px;
 }
 
+.main{
+	height: 100px;
+	width: 100px;
+}
+
+.allbackground {
+	background-color:yellow;
+}
+.title {
+	background-color:yellow;
+}
 ul{
-	list-style-type: square;
+	list-style-type: square; background-color:yellow;
 }
 
 h1{
